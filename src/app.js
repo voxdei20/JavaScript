@@ -1,7 +1,7 @@
 var dolarDun =9.20
 var dolarBugun = 9.40
 
-let konutKredileri = ["Konut Kredisi","Emlak Konut Kredisi","Kamu Konut Kredisi","Özel Konut Kredileri"]
+let konutKredileri = ["Konut Kredisi","Emlak Konut Kredisi","Kamu Konut Kredisi","Özel Konut Kredilerii"]
 console.log(konutKredileri)
 
 console.log("<ul>")
